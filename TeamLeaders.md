@@ -17,6 +17,6 @@ S6_Thiếu-Người | | | |
 T1_F4 | | | | 
 T1_KSHN | | | | 
 T2_3H2D | | | | 
-T2_Open-Mind | | | | 
+T2_Open-Mind |1412265 |Bùi Chí Kiên |kiencbui@outlook.com |kiencbui 
 T3_Share-Source | | | | 
 T3_OpenSource_5M | | | | 
