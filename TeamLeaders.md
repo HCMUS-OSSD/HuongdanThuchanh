@@ -14,7 +14,7 @@ S3_6cm | | | |
 S4_3T2D | | | | 
 S5_Open-Source | | | | 
 S6_Thiếu-Người | | | | 
-T1_F4 | 1312147| Nguyễn Minh Đức | nguyenminhduc.qk@gmail.com | ducnguyen123
+T1_F4 | 1312147 | Nguyễn Minh Đức | nguyenminhduc.qk@gmail.com | ducnguyen123
 T1_KSHN | | | | 
 T2_3H2D | | | | 
 T2_Open-Mind | | | | 
