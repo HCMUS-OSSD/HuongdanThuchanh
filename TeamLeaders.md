@@ -17,6 +17,6 @@ S6_Thiếu-Người |1312505 |Lê Chí Tâm |lechitam505@gmail.com |lechitam
 T1_F4 | | | | 
 T1_KSHN |1412323 |Lưu Quang Minh |luuquangminhbaoloc@gmail.com | minhmeo753
 T2_3H2D |1312148|Nguyễn Thanh Đức|nthduc95@gmail.com|1312148
-T2_Open-Mind | | | | 
+T2_Open-Mind |1412265 |Bùi Chí Kiên |kiencbui@outlook.com |kiencbui 
 T3_Share-Source | | | | 
 T3_OpenSource_5M |1412081 |Trần Hữu Dũng |huudung096@gmail.com |dungtranhcmus 
