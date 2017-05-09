@@ -7,7 +7,7 @@ L2_ABC | | | |
 L2_ABC | 1412098 | Trần Văn Duy | tvduy1996@gmail.com | tvduy
 L4_Freee |1412086 |Nguyễn Đặng Hoài Duy |ndhduy.7798@gmail.com |ngray1747 
 L5_THA-THU |1412207 |Nguyễn Thanh Huy | nguyenthanhhuy10@gmail.com| thanhhuykhtn
-L6_Meow | | | | 
+L6_Meow | 1412644|Nguyễn Ngô Phú Vinh | nnpv1713@gmail.com| manaclan
 L7_Uncensored |1412369|Lý Thành Nhân|mrfrenkyztiny@gmail.com |FrenkyzKing 
 S2_ABCH2K |1412262|Lê Anh Khôi|leanhkhoi1996@gmail.com|leanhkhoi
 S3_6cm |1412377 |Nguyễn Tài Nhật |nguyentainhat2110@gmail.com |NhatNTN 
