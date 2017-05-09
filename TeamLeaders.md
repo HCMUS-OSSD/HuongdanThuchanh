@@ -3,8 +3,8 @@
 Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
 L1_devmob |1412135 |Đỗ Đăng Đức |dodangduc196@gmail.com |dodangduc 
-L2_ABC | | | | 
 L2_ABC | 1412098 | Trần Văn Duy | tvduy1996@gmail.com | tvduy
+L3_OpenFace | 1112136| Trần Nguyên Khánh|tmkhanh132@gmail.com | tmkhanh132
 L4_Freee |1412086 |Nguyễn Đặng Hoài Duy |ndhduy.7798@gmail.com |ngray1747 
 L5_THA-THU |1412207 |Nguyễn Thanh Huy | nguyenthanhhuy10@gmail.com| thanhhuykhtn
 L6_Meow | 1412644|Nguyễn Ngô Phú Vinh | nnpv1713@gmail.com| manaclan
