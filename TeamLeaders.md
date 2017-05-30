@@ -1,7 +1,7 @@
 # Danh sách các nhóm trưởng 
 
 Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub | GVHD
------------ | ----- | ------ | ----- | -------------------
+----------- | ----- | ------ | ----- | ------------------- | ----
 L1_devmob |1412135 |Đỗ Đăng Đức |dodangduc196@gmail.com |dodangduc | htthanh
 L2_ABC | 1412098 | Trần Văn Duy | tvduy1996@gmail.com | tvduy | htthanh
 L3_OpenFace | 1112136| Trần Nguyên Khánh|tmkhanh132@gmail.com | tmkhanh132 | htthanh
